@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Denisenok</h1>
 <h3 align="center">Software engineer from Moscow. MTUCI senior student.</h3>
 
-- 🔭 currently working on [booking-schedule](github.com/nikitads9/event-schedule)
+- 🔭 currently working on [booking-schedule](https://github.com/nikitads9/event-schedule)
 
 - 🌱 currently learning **kubernetes**
 
