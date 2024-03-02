@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikita Denisenok</h1>
-<h3 align="center">Software engineer from Moscow. MTUCI student.</h3>
+<h3 align="center">Software engineer from Moscow. MTUCI senior student.</h3>
 
-- 🔭 I’m currently working on [booking-schedule](github.com/nikitads9/event-schedule)
+- 🔭 currently working on [booking-schedule](github.com/nikitads9/event-schedule)
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 currently learning **kubernetes**
 
-- 👯 I’m looking to collaborate on **YADRO Суприм**
+- 💬 realm of interest **golang, backend, DevOps**
 
-- 👨‍💻 All of my projects are available at [github.com/nikitads9](github.com/nikitads9)
+- 📫 contact me on [VK](https://vk.com/ndenisenok)
+- 💻 practice [LeetCode](https://www.leetcode.com/nikitads9")
 
-- 💬 Ask me about **golang, backend, DevOps**
-
-- 📫 How to reach me **vk.com/ndenisenok**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">social media:</h3>
 <p align="left">
 <a href="https://instagram.com/nikitads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitads" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikitads9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikitads9" height="30" width="40" /></a>
