@@ -7,7 +7,7 @@
 
 - 💬 realm of interest **golang, backend, DevOps**
 
-- 📫 contact me on [VK](https://vk.com/ndenisenok)
+- 📫 contact me on [@nikitads](https://t.me/nikitads) or [VK](https://vk.com/ndenisenok)
 - 💻 practice [LeetCode](https://www.leetcode.com/nikitads9")
 
 <h3 align="left">social media:</h3>
